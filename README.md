@@ -30,6 +30,10 @@ A curated list of awesome AI-powered astrology apps, tools, and resources to exp
 - **Description:** AI-generated zodiac content for social media.
 - **Features:** Pre-designed posts, weekly predictions, and personalized advice.
 
+### 4. [Taroternity](https://taroternity.com)
+- **Description:** Tarot card reading of the future!
+- **Features:** Get a free tarot card reading.
+
 ---
 
 ## APIs
